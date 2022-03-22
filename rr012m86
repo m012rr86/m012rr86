@@ -1,0 +1,8 @@
+$Id: ChangeLog,v 1.257 2010/09/19 13:15:07 Stevan_White Exp $
+2010-09-19 Stevan_White
+	* FreeSerif.sfd:
+		omissions, that Harshula pointed out.
+
+	* FreeSans.sfd, FreeSansBold.sfd, FreeSansBoldOblique.sfd, FreeSansOblique.sfd:
+
+	Sans: Applied Daniel Johnsons improvement to capital Eng to Sans, as
